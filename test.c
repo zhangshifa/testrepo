@@ -3,7 +3,7 @@
 
 int main()
 {
- printf("新建文件\n");
  printf("hello\n");
+ printf("新建文件\n");
  return 0;
 }
